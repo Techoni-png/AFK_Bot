@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "SMGHGlul.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
@@ -20,14 +20,14 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "1234"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "disable": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
